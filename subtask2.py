@@ -46,3 +46,5 @@ def process_sequence():
 
 if __name__ == "__main__":
     process_sequence()
+
+    # it looks like I learned how to use git today
